@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MSI Pulse",
+      "brand": "MSI",
+      "category": "Computers",
+      "price": 899,
+      "description": "MSI Pulse GL66 15.6 -> Gaming Laptop",
+      "imageFilename": "msi_pulse.webp",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 2,
+      "name": "ASUS ROG Strix",
+      "brand": "ASUS",
+      "category": "Computers",
+      "price": 1299,
+      "description": "ASUS ROG Strix G15 15.6 -> Gaming Laptop",
+      "imageFilename": "asus_rog.jpg",
+      "createdAt": "2023-07-14T10:30:00.8900000"
+    },
+    {
+      "id": 3,
+      "name": "Acer Predator Helios",
+      "brand": "Acer",
+      "category": "Computers",
+      "price": 1199,
+      "description": "Acer Predator Helios 300 15.6 -> Gaming Laptop",
+      "imageFilename": "acer_predator.jpeg",
+      "createdAt": "2023-07-15T11:15:00.8900000"
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 15",
+      "brand": "Dell",
+      "category": "Computers",
+      "price": 1399,
+      "description": "Dell XPS 15 9500 15.6 -> Ultrabook",
+      "imageFilename": "dell_xps.jpg",
+      "createdAt": "2023-07-16T09:45:00.8900000"
+    },
+    {
+      "id": 5,
+      "name": "HP Spectre x360",
+      "brand": "HP",
+      "category": "Computers",
+      "price": 1499,
+      "description": "HP Spectre x360 15.6 -> Convertible Laptop",
+      "imageFilename": "hp_spectre.jpg",
+      "createdAt": "2023-07-17T12:30:00.8900000"
+    },
+    {
+      "id": 6,
+      "name": "Lenovo ThinkPad X1",
+      "brand": "Lenovo",
+      "category": "Computers",
+      "price": 1599,
+      "description": "Lenovo ThinkPad X1 Carbon 14 -> Business Laptop",
+      "imageFilename": "lenovo_thinkpad.jpeg",
+      "createdAt": "2023-07-18T13:20:00.8900000"
+    },
+    {
+      "id": 7,
+      "name": "Apple MacBook Pro",
+      "brand": "Apple",
+      "category": "Computers",
+      "price": 2399,
+      "description": "Apple MacBook Pro 16 -> High-Performance Laptop",
+      "imageFilename": "apple_macbook.jpeg",
+      "createdAt": "2023-07-19T14:10:00.8900000"
+    },
+    {
+      "id": 8,
+      "name": "Razer Blade 15",
+      "brand": "Razer",
+      "category": "Computers",
+      "price": 1799,
+      "description": "Razer Blade 15 15.6 -> Gaming Laptop",
+      "imageFilename": "razer_blade.jpg",
+      "createdAt": "2023-07-20T15:00:00.8900000"
+    },
+    {
+      "id": 9,
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Microsoft",
+      "category": "Computers",
+      "price": 999,
+      "description": "Microsoft Surface Laptop 4 15 -> Ultrabook",
+      "imageFilename": "microsoft_surface.avif",
+      "createdAt": "2023-07-21T16:00:00.8900000"
+    },
+    {
+      "id": 10,
+      "name": "Gigabyte AERO 15",
+      "brand": "Gigabyte",
+      "category": "Computers",
+      "price": 1699,
+      "description": "Gigabyte AERO 15 15.6 -> Creative Laptop",
+      "imageFilename": "gigabyte_aero.jpeg",
+      "createdAt": "2023-07-22T17:00:00.8900000"
+    },
+    {
+      "id": 11,
+      "name": "iPhone 13 Pro",
+      "brand": "Apple",
+      "category": "Cellphones",
+      "price": 999,
+      "description": "Apple iPhone 13 Pro with 128GB storage and A15 Bionic chip",
+      "imageFilename": "iphone_13.jpg",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 12,
+      "name": "Samsung Galaxy S21",
+      "brand": "Samsung",
+      "category": "Cellphones",
+      "price": 799,
+      "description": "Samsung Galaxy S21 with 128GB storage and Exynos 2100",
+      "imageFilename": "samsung_galaxy.jpg",
+      "createdAt": "2023-07-14T10:30:00.8900000"
+    },
+    {
+      "id": 13,
+      "name": "Google Pixel 6",
+      "brand": "Google",
+      "category": "Cellphones",
+      "price": 699,
+      "description": "Google Pixel 6 with 128GB storage and Google Tensor chip",
+      "imageFilename": "google_pixel.avif",
+      "createdAt": "2023-07-15T11:15:00.8900000"
+    },
+    {
+      "id": 14,
+      "name": "OnePlus 9 Pro",
+      "brand": "OnePlus",
+      "category": "Cellphones",
+      "price": 969,
+      "description": "OnePlus 9 Pro with 256GB storage and Snapdragon 888",
+      "imageFilename": "one_plus.webp",
+      "createdAt": "2023-07-16T09:45:00.8900000"
+    },
+    {
+      "id": 15,
+      "name": "Sony Xperia 1 III",
+      "brand": "Sony",
+      "category": "Cellphones",
+      "price": 1299,
+      "description": "Sony Xperia 1 III with 256GB storage and Snapdragon 888",
+      "imageFilename": "sony_experia.avif",
+      "createdAt": "2023-07-17T12:30:00.8900000"
+    },
+    {
+      "id": 16,
+      "name": "Xiaomi Mi 11",
+      "brand": "Xiaomi",
+      "category": "Cellphones",
+      "price": 749,
+      "description": "Xiaomi Mi 11 with 128GB storage and Snapdragon 888",
+      "imageFilename": "xiaomi_mi.jpg",
+      "createdAt": "2023-07-18T13:20:00.8900000"
+    },
+    {
+      "id": 17,
+      "name": "Oppo Find X3 Pro",
+      "brand": "Oppo",
+      "category": "Cellphones",
+      "price": 1149,
+      "description": "Oppo Find X3 Pro with 256GB storage and Snapdragon 888",
+      "imageFilename": "oppo_find.avif",
+      "createdAt": "2023-07-19T14:10:00.8900000"
+    },
+    {
+      "id": 18,
+      "name": "Motorola Edge Plus",
+      "brand": "Motorola",
+      "category": "Cellphones",
+      "price": 999,
+      "description": "Motorola Edge Plus with 256GB storage and Snapdragon 865",
+      "imageFilename": "motorola_edge.jpg",
+      "createdAt": "2023-07-20T15:00:00.8900000"
+    },
+    {
+      "id": 19,
+      "name": "Nokia 8.3 5G",
+      "brand": "Nokia",
+      "category": "Cellphones",
+      "price": 699,
+      "description": "Nokia 8.3 5G with 128GB storage and Snapdragon 765G",
+      "imageFilename": "nokia_8.png",
+      "createdAt": "2023-07-21T16:00:00.8900000"
+    },
+    {
+      "id": 20,
+      "name": "Huawei P50 Pro",
+      "brand": "Huawei",
+      "category": "Cellphones",
+      "price": 1199,
+      "description": "Huawei P50 Pro with 256GB storage and Kirin 9000",
+      "imageFilename": "huawei_p50.png",
+      "createdAt": "2023-07-22T17:00:00.8900000"
+    }
+  ]
+}
